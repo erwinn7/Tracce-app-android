@@ -1,0 +1,9 @@
+## Exemple de configuration locale pour Tracce Android
+# Copiez ce fichier vers 'local.properties' et renseignez vos informations.
+# Ce fichier ne doit JAMAIS être commité sur un dépôt public.
+
+# Chemin vers votre Android SDK local
+sdk.dir=/Users/YOUR_USERNAME/Library/Android/sdk
+
+# Clé Web API du projet Firebase 'tracce-corse'
+FIREBASE_API_KEY=AIzaSy_VOTRE_CLE_FIREBASE_ICI
